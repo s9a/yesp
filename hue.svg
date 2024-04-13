@@ -1,0 +1,8 @@
+<svg style="background:hotpink"
+  xmlns="http://www.w3.org/2000/svg">
+  <title>hues</title>
+  <circle fill="#a5e" cx="50%" cy="50%" r="40%" />
+  <circle fill="#ea5" cx="50%" cy="50%" r="25%" />
+  <circle fill="#2c8" cx="50%" cy="50%" r="15%" />
+  <circle fill="#5be" cx="50%" cy="50%" r="5%" />
+</svg>
