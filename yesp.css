@@ -10,7 +10,7 @@ body {
 }
 
 main {
-  contain; layout;
+  contain: layout;
   display: flex;
   flex-direction: column;
   margin: auto;
@@ -18,13 +18,22 @@ main {
 }
 
 header {
-  border-radius: 13% 8%;
-  padding-inline: 3vw;
+  max-width: 61.8vw;
 }
 
 h1 {
-  display: flex;
+  font-weight: unset;
+  display: flow-root;
   padding: 3vmin;
+}
+
+h1 a { 
+  float: inline-start;
+}
+
+h1 code { 
+  font-family: unset;
+  font-weight: bold;
 }
 
 mark {
@@ -32,12 +41,11 @@ mark {
 }
 
 a {
-  border-radius: 13% 8%;
   display: inline-block;
-  padding: 1ch;
+  padding-inline: .146rem;
 }
 
-p { font-weight: bold }
+p { padding-inline: .146rem }
 samp { padding-inline: 1vw; font-size: 1.236em }
 small { display: block; font-size: 1ch }
 sub { all: unset }

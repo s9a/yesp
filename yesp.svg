@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <title>yesp energy</title>
+  <style>svg { background: #a5e }</style>
+  <rect fill="#2c8" height="20%" width="100%" y="0%" />
+  <rect fill="#5de" height="20%" width="100%" y="20%" />
+  <rect fill="#2c8" height="20%" width="100%" y="40%" />
+  <rect fill="#ed5" height="20%" width="100%" y="60%" />
+  <rect fill="#f6e" height="20%" width="100%" y="80%" />
+</svg>
